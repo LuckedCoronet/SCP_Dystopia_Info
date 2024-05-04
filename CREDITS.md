@@ -6,4 +6,4 @@ Some sound effects are obtained from [Zapsplat](https://www.zapsplat.com/).
 
 ## SCP Articles
 
-No SCPs has been added to the add-on yet.
+- [SCP-096](https://scp-wiki.wikidot.com/scp-096)
