@@ -7,9 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- SCP-096 entity
+
 ### Fixed
 
 - Wrong credits link in manifest files
+
+### Changed
+
+- Rewrite core scripts
 
 ## [2.0.0-pa2]
 
